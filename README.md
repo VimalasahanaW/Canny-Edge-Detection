@@ -80,7 +80,7 @@ The original grayscale image is displayed.
 
 The detected edges of the image are displayed using the Canny Edge Detection algorithm.
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## RESULT:
 
