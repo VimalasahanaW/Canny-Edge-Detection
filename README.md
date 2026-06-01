@@ -51,7 +51,7 @@ import matplotlib.pyplot as plt
 ```
 Step 2: Read the Input Image
 ```py
-img = cv2.imread('dog.jpg', cv2.IMREAD_GRAYSCALE)
+img = cv2.imread('girl.jpg', cv2.IMREAD_GRAYSCALE)
 ```
 Step 3: Apply Gaussian Blur
 ```py
